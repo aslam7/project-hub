@@ -1,0 +1,89 @@
+	#log,#sign{
+		font-size: 15px;
+		border-radius: 10px;
+		padding: 5px;
+		float: right;
+		;
+		color: ;
+		margin-right: 50px;
+		border-width: 0px;
+		width: 100px;
+		margin-top: 10px;
+		border:1px solid #C2C7D0;
+	}
+	.left { 
+		float: left;
+		margin-top: 15px;
+		font-size: 14px;
+		margin-left: 20px 
+	}
+	#log2{
+		font-size: 15px;
+		border-radius: 0px;
+		padding: 10px;
+		float: right;
+		background-color: palegreen;
+		color: blue;
+		margin-right: 50px;
+		border-width: 0px;
+		width: 120px;
+		margin-top: 10px;
+	}
+	#namer{
+		font-size: 18px;
+		float: right;
+		background-color: transparent;
+		color: white;
+		margin-right: 50px;
+		border-width: 0px;
+		width: 130px;
+		margin-top: 20px;
+		font-weight: bolder;
+	}
+	#menu{
+		width: 500px;
+		text-align: center;
+		display: inline-block; margin-left: 30px;
+	}
+	#t1{
+		padding-top: 5px;
+		padding-bottom: 10px;
+		border-radius: 0px;
+		background-color:transparent;
+		color:;
+		font-size: 14px;
+		font-weight: bolder;
+		text-decoration: none;
+		border:none;
+		height:;
+		width: 100px;
+		padding-left: 20px;
+		padding-right: 100px;
+		font-family: serif;
+	}
+	#l1{
+		text-decoration: none;
+	}
+	/*td{
+		background-color:#349395;*/
+	}
+	#linker{
+		text-decoration: none;
+		color: white;
+		font-size: 15px;
+		font-weight: bolder;
+	}
+.blink {
+    animation-duration: 1s;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-timing-function: steps(2, start);
+}
+@keyframes blink {
+    80% {
+        visibility: hidden;
+    }
+}
+
+
+	/*#83CB6C #34aa95*/
